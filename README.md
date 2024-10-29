@@ -1,5 +1,5 @@
 <h1><center><font size=10>Data Science and Business Analytics</center></font><p
-<center>Project 5 - Ensemble Techniques - Visa Approval Predition Model for EasyVisa</center></h1><p
+<center>Project 6 - Model Tuning - Classification model to identify Mechanical Failures for ReneWind</center></h1><p
 
 <p align="left"> 
   <a href="https://github.com/RayVazcari?tab=followers">
