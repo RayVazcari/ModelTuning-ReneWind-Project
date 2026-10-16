@@ -1,12 +1,13 @@
-<h1><center><font size=10>Data Science and Business Analytics</center></font><p
-<center>Project 6 - Model Tuning - Classification model to identify Mechanical Failures for ReneWind</center></h1><p
+<div align="center">
 
-<p align="left"> 
-  <a href="https://github.com/RayVazcari?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RayVazcari?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow me on Github &logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rayvazcari/">
-    <img alt="Linkedin Profile" title="Linkedin Profile" src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20Profile-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
-</p>
+<img src="assets/banner.svg" alt="Project 06: Renewind Failure Detection" width="100%" />
+
+<a href="https://github.com/RayVazcari"><img src="https://img.shields.io/badge/PORTFOLIO-RayVazcari-ff2a6d?style=for-the-badge&logo=github&logoColor=white&labelColor=07070f" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/rayvazcari/"><img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=07070f&labelColor=07070f&color=00F0FF" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/PYTHON-07070f?style=for-the-badge&logo=python&logoColor=f9f002" alt="Python" />
+<img src="https://img.shields.io/badge/JUPYTER-07070f?style=for-the-badge&logo=jupyter&logoColor=ff2a6d" alt="Jupyter" />
+
+</div>
 
 ---
 
